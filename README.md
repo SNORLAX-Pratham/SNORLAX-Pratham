@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SNORLAX-Pratham
+- 👋 Hi, I’m Prathamesh 
 - 👀 I’m interested in ...Cyber Security  
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ..html,css, java,python.
